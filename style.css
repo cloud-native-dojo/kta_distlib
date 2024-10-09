@@ -1,0 +1,180 @@
+.screen {
+    background-color: #f3f3f3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0;
+  }
+  
+  .screen .div {
+    background-color: #f3f3f3;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .screen .overlap {
+    position: absolute;
+    width: 125px;
+    height: 36px;
+    top: 50px;
+    left: 568px;
+  }
+  
+  .screen .rectangle {
+    position: absolute;
+    width: 124px;
+    height: 13px;
+    top: 19px;
+    left: 1px;
+    background-color: #d9f78e;
+  }
+  
+  .screen .text-wrapper {
+    width: 125px;
+    top: 0;
+    left: 0;
+    font-family: "Ubuntu-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-2 {
+    position: absolute;
+    width: 203px;
+    top: 27px;
+    left: 65px;
+    font-family: "Ubuntu-Bold", Helvetica;
+    font-weight: 700;
+    color: #414141;
+    font-size: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .vector {
+    position: absolute;
+    width: 24px;
+    height: 30px;
+    top: 51px;
+    left: 1296px;
+  }
+  
+  .screen .frame {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 50px;
+    left: 1346px;
+  }
+  
+  .screen .text-wrapper-3 {
+    width: 125px;
+    top: 50px;
+    left: 737px;
+    font-family: "Ubuntu-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .overlap-group {
+    position: absolute;
+    width: 164px;
+    height: 36px;
+    top: 50px;
+    left: 1112px;
+  }
+  
+  .screen .text-wrapper-4 {
+    width: 125px;
+    top: 0;
+    left: 0;
+    font-family: "Ubuntu-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: right;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-5 {
+    width: 43px;
+    top: 6px;
+    left: 121px;
+    font-family: "Ubuntu-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: right;
+    white-space: nowrap;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .group {
+    position: absolute;
+    width: 718px;
+    height: 69px;
+    top: 119px;
+    left: 361px;
+  }
+  
+  .screen .overlap-2 {
+    position: relative;
+    width: 720px;
+    height: 69px;
+  }
+  
+  .screen .view {
+    position: absolute;
+    width: 720px;
+    height: 69px;
+    top: 0;
+    left: 0;
+  }
+  
+  .screen .div-wrapper {
+    position: relative;
+    width: 718px;
+    height: 69px;
+    background-color: #ffffff;
+    border-radius: 44px;
+  }
+  
+  .screen .text-wrapper-6 {
+    position: absolute;
+    width: 599px;
+    height: 35px;
+    top: 17px;
+    left: 79px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .image {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 18px;
+    left: 31px;
+    object-fit: cover;
+  }
+  
